@@ -1,4 +1,4 @@
-# SiRNABERT
+# siRNABERT
 An explainable BERT-based deeplearning algorithm for siRNA target prediction 
 
 ## Introduction
@@ -8,7 +8,7 @@ In this study, we propose an explainable BERT-based model for the siRNA target p
 ![image text](https://github.com/ChengkuiZhao/SiRNABERT/blob/main/image/Workflow.jpg)
 
 ## Installation
-git clone https://github.com/ChengkuiZhao/SiRNABERT
+git clone https://github.com/ChengkuiZhao/siRNABERT
 
 ## Requirement
 * torch
