@@ -17,7 +17,7 @@ git clone https://github.com/ChengkuiZhao/siRNABERT
 * pandas
 * matplotlib
 ## Citation
-If you use this data, tool or code, please considering citing:
+If you use this data, tool or code, please considering citing:<br />
 Jiayu Xu, Nan Xu, Weixin Xie, Chengkui Zhao*, Lei Yu*, Weixing Feng*<br />
 BERT-siRNA: siRNA target prediction based on BERT pre-trained interpretable model<br />
-Gene,2024,148330,ISSN 0378-1119,https://doi.org/10.1016/j.gene.2024.148330.
+**Gene**,2024,148330,ISSN 0378-1119,https://doi.org/10.1016/j.gene.2024.148330.
